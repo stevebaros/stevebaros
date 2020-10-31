@@ -6,5 +6,5 @@
 - 💬 Ask me about SPACE,CODE,SOCCER. You can reach me via : admin@stevebaros.me
 - ⚡ Fun fact: The Ultimate goal in all this is Immortality, lest we forget 😄.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevebaros)](https://github.com/anuraghazra/github-readme-stats)
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevebaros&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
