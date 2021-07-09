@@ -1,7 +1,6 @@
-- 🔭 I’m currently working on : Things that challeng me
-- 👯 I’m ready to collaborate on: Laravel && Java(SpringBoot || android ) && Go, kotlin && Javascript(Vue || React). [Here is my fetus](https://github.com/packageproposals)
-- 💬 Ask me about SPACE,CODE,SOCCER. You can reach me via : barungisteven@gmail.com
-- ⚡ Fun fact: The Ultimate goal of all this is Immortality, lest we forget 😄.
+- 👯 I’m ready to collaborate on: Laravel && Java(SpringBoot || android ) && Go && kotlin && Javascript(Vue || React). [Here is my fetus](https://github.com/packageproposals)
+- 💬 You can reach me via : barungisteven@gmail.com
+- ⚡ The Ultimate goal of all this is Immortality, lest we forget 😄.
 
 <table>
   <tr>
