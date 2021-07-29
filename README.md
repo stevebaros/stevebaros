@@ -2,7 +2,7 @@
 - 💬 You can reach me via : barungisteven@gmail.com
 - ⚡ The Ultimate goal of all this is Immortality, lest we forget 😄.
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=stevebaros&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
@@ -11,5 +11,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevebaros&layout=compact&langs_count=7&theme=vision-friendly-dark&include_all_commits=true" alt="Twitter"/>
     </td>
   </tr>
-</table>
+</table> !-->
 
