@@ -2,14 +2,14 @@
 - 💬 You can reach me via : barungisteven@gmail.com
 - ⚡ The Ultimate goal of all this is Immortality, lest we forget 😄.
 
-<!-- <table>
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=stevebaros&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevebaros&layout=compact&langs_count=7&theme=vision-friendly-dark&include_all_commits=true" alt="Twitter"/>
+      [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xop7r52mpq4huefvpyty3brvpe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31xop7r52mpq4huefvpyty3brvpe&redirect=true)
     </td>
   </tr>
-</table> !-->
+</table> 
 
